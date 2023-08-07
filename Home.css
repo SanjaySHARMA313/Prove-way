@@ -1,0 +1,29 @@
+
+.main{width:50%;margin-left: 25%;margin-right:25%;}
+.headersection{display:flex;}
+.fhr{width: 25%; height: 1px;color:blue;}
+.shr{width: 25%; height: 1px;color:blue;}
+.mainhead{color:darkgreen;font-size: larger;}
+.fsection{display:flex;border:2px solid black;height:55px;margin:3%;}
+.fsection:hover{border:3px solid rgb(10, 113, 78);}
+.foff{display: flex;margin-top: 9px;justify-content:flex-end;flex:1;margin-right: 1%;}
+.apair{padding-left: 3%;margin-top: 6px;}
+.input{margin-left:9px;}
+.lfooter{display:flex;margin:4%}
+.footer{color:darkcyan;flex:1;}
+.ltotal{display:flex;justify-content: flex-end;}
+.button{color:white;background-color: rgba(8, 108, 86, 0.782);margin:3%}
+.lbutton{height:27px;padding-top:6px;}
+.spair{display:flex;border:2px solid black;margin:3%;margin-bottom:14px;}
+.spair:hover{border:3px solid rgb(10, 113, 78);}
+.cspair{display:flex;flex-direction: column;margin-left:15px;flex:1}
+.size{display: flex;}
+.colour{display:flex;flex:1;justify-content:center;}
+.sizes{display:flex;flex:1;margin-left:20px;}
+.abouttpair{display:flex;}
+.option{display:flex;flex:1;height:25px;margin:1%;}
+.one{margin-top: 6px;}
+.most{color:darkgreen;font-size: large;margin:5px;}
+.tpairs{margin-top: 5px;flex:1;display:flex;}
+.dkk{display: flex;align-items: flex-start;}
+.mpopular{display:flex;flex-direction: column;align-items:flex-end;flex:1;padding:2px;}
